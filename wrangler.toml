@@ -6,6 +6,6 @@ pages_build_output_dir = ".vercel/output/static"
 [[d1_databases]]
 binding = "DB"
 database_name = "example-db"
-database_id = "3adec072-551b-4d08-aac9-f0954c5bb5b2"
+database_id = "c7fb3acf-ab16-4d53-bd8f-bcd6cf928a68"
 preview_database_id = "DB" # Required for Pages local development
 
